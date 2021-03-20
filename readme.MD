@@ -8,7 +8,7 @@
 - 🔭 I’m working on improving my techskills and becoming better at coding
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking for new and exciting opportunities to use my previous experience and newly acquired skills
-- 🥅 2020 Goal: find balance between Business Analysis and Web Development and see how I can grow with these two interests of mine
+- 🥅 2021 Goal: find balance between Business Analysis and Web Development and see how I can grow with these two interests of mine
 - 💬 Ask me about anything
 - 📫 Please email natalia.yuzhakova@gmail.com to reach me
 - 📝 See my [Resume](https://www.canva.com/design/DAEEPCm14hg/Jwu-q2cwH2dIHGqahKgl7g/view?utm_content=DAEEPCm14hg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to get more info.
