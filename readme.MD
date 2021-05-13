@@ -12,7 +12,7 @@
 - 💬 Ask me about anything
 - 📫 Please email natalia.yuzhakova@gmail.com to reach me
 - 📝 See my [Resume](https://www.canva.com/design/DAEEPCm14hg/Jwu-q2cwH2dIHGqahKgl7g/view?utm_content=DAEEPCm14hg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to get more info
-- 📝 Check out my website and the services I currently offer [Website](https://nyconsulting.ca/).
+- 📝 Check out my website and the services I provide [Website](https://nyconsulting.ca/).
 
 
 
