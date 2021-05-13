@@ -6,7 +6,7 @@
 ### Through continuous self-study I have been building a solid foundation in both front-end and back-end technologies, focusing on Product Management and Data Visualization.
 
 - 🔭 I’m working on improving my techskills and becoming better at coding
-- 🌱 I’m currently learning how to combine powerful visualization components and a data-driven approach to DOM manipulation. My current focus: JS, D3.js, React.js, HTML, SVG, CSS
+- 🌱 I continue to learn how to combine powerful visualization components and a data-driven approach to DOM manipulation. My current focus: JS, D3.js, React.js, HTML, SVG, CSS
 - 👯 I’m looking for new and exciting opportunities to use my previous experience and newly acquired skills
 - 🥅 2021 Goal: find a hybrid role as a Product Manager to use Business Analysis and Web Development
 - 💬 Ask me about anything
