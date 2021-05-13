@@ -3,12 +3,12 @@
 ### Welcome to my GitHub!
 ### I'm Natalia, Vancouver based Business Analyst.
 ### I have recently completed a full-stack Web Development Bootcamp Program at Lighthouse Labs!
-### Through continuous self-study I am building a solid foundation in both front-end and back-end technologies and languages.
+### Through continuous self-study I am building a solid foundation in both front-end and back-end technologies, focusing on Product Management and Data Visualization.
 
 - 🔭 I’m working on improving my techskills and becoming better at coding
 - 🌱 I’m currently learning how to combine powerful visualization components and a data-driven approach to DOM manipulation. My current focus: JS, D3.js, React.js, HTML, SVG, CSS
 - 👯 I’m looking for new and exciting opportunities to use my previous experience and newly acquired skills
-- 🥅 2021 Goal: find a hybrid role as a Peoduct Manager to use Business Analysis and Web Development
+- 🥅 2021 Goal: find a hybrid role as a Product Manager to use Business Analysis and Web Development
 - 💬 Ask me about anything
 - 📫 Please email natalia.yuzhakova@gmail.com to reach me
 - 📝 See my [Resume](https://www.canva.com/design/DAEEPCm14hg/Jwu-q2cwH2dIHGqahKgl7g/view?utm_content=DAEEPCm14hg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to get more info
