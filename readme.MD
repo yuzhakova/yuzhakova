@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub!
 ### I'm Natalia, Vancouver based Business Analyst.
-### I have recently completed a full-stack Web Development Bootcamp Program at Lighthouse Labs [LHL](https://www.lighthouselabs.ca/en/web-development-bootcamp)!
+### I have recently completed a full-stack Web Development Bootcamp Program at [Lighthouse Labs](https://www.lighthouselabs.ca/en/web-development-bootcamp)!
 ### Through continuous self-study I am building a solid foundation in both front-end and back-end technologies, focusing on Product Management and Data Visualization.
 
 - 🔭 I’m working on improving my techskills and becoming better at coding
