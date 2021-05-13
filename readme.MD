@@ -2,8 +2,8 @@
 
 ### Welcome to my GitHub!
 ### I'm Natalia, Vancouver based Business Analyst.
-### I have recently completed a full-stack Web Development Bootcamp Program at [Lighthouse Labs](https://www.lighthouselabs.ca/en/web-development-bootcamp)!
-### Through continuous self-study I am building a solid foundation in both front-end and back-end technologies, focusing on Product Management and Data Visualization.
+### Last year I have completed a full-stack Web Development Bootcamp Program at [Lighthouse Labs](https://www.lighthouselabs.ca/en/web-development-bootcamp), took time to practice and now I am ready for my next step!
+### Through continuous self-study I have been building a solid foundation in both front-end and back-end technologies, focusing on Product Management and Data Visualization.
 
 - 🔭 I’m working on improving my techskills and becoming better at coding
 - 🌱 I’m currently learning how to combine powerful visualization components and a data-driven approach to DOM manipulation. My current focus: JS, D3.js, React.js, HTML, SVG, CSS
