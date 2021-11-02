@@ -8,7 +8,7 @@
 - 🔭  I’m working on improving my techskills and becoming better at coding
 - 🌱  I continue to learn how to combine powerful visualization components and a data-driven approach to DOM manipulation. My current focus: JS, D3.js, React.js, HTML, SVG, CSS
 - 👯  I’m looking for new and exciting opportunities to use my previous experience and newly acquired skills
-- 🥅  2021 Goal: find a hybrid role as a Product Manager to use Business Analysis and Web Development
+- 🥅  2021 Goal: find a hybrid role in Web Development/Product Management/Business Analysis
 - 💬  Ask me about anything
 - 📫  Please email natalia.yuzhakova@gmail.com to reach me
 - 📝  See my [Resume](https://www.canva.com/design/DAEEPCm14hg/Jwu-q2cwH2dIHGqahKgl7g/view?utm_content=DAEEPCm14hg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to get more info
